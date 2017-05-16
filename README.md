@@ -2,7 +2,7 @@
 
 demo是一个使用JavaScript和MQTT实现的一个简单的物联网应用，通过client端上报温度数据，server处理温度数据（业务处理），app端展示结果（根据温度的一些穿衣提示）
 
-![](/asset/struct.png)
+![](/asset/struct1.png)
 
 ## demo结构说明
 
@@ -22,6 +22,8 @@ server：
 app：
 
 - 使用koa和mqtt.js，通过web展示数据提示
+
+![](/asset/struct2.png)
 
 ## 快速启动
 
