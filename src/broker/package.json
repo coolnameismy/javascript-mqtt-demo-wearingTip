@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "mosca": "^2.4.0",
+    "mosca": "^2.4.0"
   }
 }
